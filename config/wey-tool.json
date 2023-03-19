@@ -1,6 +1,8 @@
 {
     "code": 23031901,
-    "name": "1.0.0",
-    "url": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/app/Coolapk.apk?raw=true",
+    "name": "1.0.0-alpha",
+    "url": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/app/app-release.apk?raw=true",
+    "wechat": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/img/wechat.jpg?raw=true",
+    "alipay": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/img/alipay.jpg?raw=true",
     "desc": "1.修复了已知问题；\n2.增加了更多的壁纸库"
 }
