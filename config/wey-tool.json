@@ -1,8 +1,8 @@
 {
-    "code": 23031901,
-    "name": "1.0.0-alpha",
-    "url": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/app/app-release.apk?raw=true",
+    "code": 23032301,
+    "name": "1.0.2",
+    "url": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/app/WeyTool_1.0.2_23032301.apk?raw=true",
     "wechat": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/img/wechat.jpg?raw=true",
     "alipay": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/img/alipay.jpg?raw=true",
-    "desc": "1.修复了已知问题；\n2.增加了更多的壁纸库"
+    "desc": "1.修复动态壁纸开机失效问题"
 }
