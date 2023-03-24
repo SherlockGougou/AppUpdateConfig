@@ -1,8 +1,8 @@
 {
-    "code": 23032301,
-    "name": "1.0.2",
-    "url": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/app/WeyTool_1.0.2_23032301.apk?raw=true",
+    "code": 23032302,
+    "name": "1.0.3",
+    "url": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/app/WeyTool_1.0.3_23032302.apk?raw=true",
     "wechat": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/img/wechat.jpg?raw=true",
     "alipay": "https://github.com/SherlockGougou/AppUpdateConfig/blob/main/img/alipay.jpg?raw=true",
-    "desc": "1.修复动态壁纸开机失效问题"
+    "desc": "1.修复动态壁纸开机失效问题\n2.优化软件性能\n3.增加打开原生设置、原生文件管理"
 }
